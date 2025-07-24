@@ -1,5 +1,7 @@
 # Welcome!
 
+Thanks David, for opening your course with an accessiable licence. I value being able to fork it and learn.
+
 When David first learned Python nearly 25 years ago, David was immediately
 struck by how David could productively apply it to all sorts of messy work
 projects. Fast-forward a decade and David found himself teaching others the
