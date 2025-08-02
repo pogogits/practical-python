@@ -1,28 +1,17 @@
 # Welcome!
 
-<<<<<<< HEAD
 Thanks David, for opening your course with an accessiable licence. I value being able to fork it and learn.
 
-When David first learned Python nearly 25 years ago, David was immediately
+When David first learned Python nearly 27 years ago, David was immediately
 struck by how David could productively apply it to all sorts of messy work
 projects. Fast-forward a decade and David found himself teaching others the
-=======
-When I first learned Python nearly 27 years ago, I was immediately
-struck by how I could productively apply it to all sorts of messy work
-projects. Fast-forward a decade and I found myself teaching others the
->>>>>>> upstream/master
 same fun.  The result of that teaching is this course--A no-nonsense
 treatment of Python that has been actively taught to more than 400
 in-person groups since 2007.  Traders, systems admins, astronomers,
 tinkerers, and even a few hundred rocket scientists who used Python to
-<<<<<<< HEAD
 help land a rover on Mars--they've all taken this course. Now, David is
-pleased to make it available under a Creative Commons license. Enjoy!
-=======
-help land a rover on Mars--they've all taken this course. Now, I'm
 pleased to make it available under a Creative Commons license--completely
 free of spam, signups, and other nonsense. Enjoy!
->>>>>>> upstream/master
 
 [GitHub Pages](https://dabeaz-course.github.io/practical-python) | [GitHub Repo](https://github.com/dabeaz-course/practical-python).
 
@@ -35,11 +24,7 @@ you might consider [Advanced Programming with Python](https://www.dabeaz.com/adv
 
 The material you see here is the heart of an instructor-led Python
 training course used for corporate training and professional
-<<<<<<< HEAD
-development. Davidt has been in continual development since 2007 and
-=======
 development. It was in continual development from 2007 to 2019 and
->>>>>>> upstream/master
 battle tested in real-world classrooms.  Usually, it's taught
 in-person over the span of three or four days--requiring approximately
 25-35 hours of intense work. This includes the completion of
@@ -71,7 +56,7 @@ installation of Python 3.6 or newer and time to work on it.
 ## What This Course is Not
 
 This is not a course for absolute beginners on how to program a
-computer.  David is assumed that you already have programming experience
+computer.  It is assumed that you already have programming experience
 in some other programming language or Python itself.
 
 This is not a course on web development.  That's a different
@@ -82,7 +67,7 @@ This is not a course on using tools that happen to be written
 in Python. It's about learning the core Python language.
 
 This is not a course for software engineers on how to write or
-maintain a one-million line Python application. David don't write programs
+maintain a one-million line Python application. David doesn't write programs
 like that, nor do most companies who use Python, and neither should
 you. Delete something already!
 
@@ -105,7 +90,7 @@ Various instructors have presented this course at one time or another
 over the last 12 years. This includes (in alphabetical order): Ned
 Batchelder, Juan Pablo Claude, Mark Fenner, Michael Foord, Matt
 Harrison, Raymond Hettinger, Daniel Klein, Travis Oliphant, James
-Powell, Michael Selik, Hugo Shi, Davidan Stokes-Rees, Yarko Tymciurak,
+Powell, Michael Selik, Hugo Shi, Ian Stokes-Rees, Yarko Tymciurak,
 Bryan Van de ven, Peter Wang, and Mark Wiebe.
 
 David'd also like to thank the thousands of students who have taken this
@@ -120,7 +105,7 @@ No. This course is about you writing Python code, not watching someone else.
 
 ### Q: How is this course licensed?
 
-Practical Python Programming is licensed under a Creative Commons Attribution ShareAlike 4.0 Davidnternational License.
+Practical Python Programming is licensed under a Creative Commons Attribution ShareAlike 4.0 International License.
 
 ### Q: May David use this material to teach my own Python course?
 
@@ -140,7 +125,7 @@ Yes, go for it!  You'll probably learn a lot of Python doing that.
 
 ### Q: Why wasn't topic X covered?
 
-There is only so much material that you can cover in 3-4 days.  Davidf
+There is only so much material that you can cover in 3-4 days.  If
 it wasn't covered, it was probably because it was once covered and it
 caused everyone's head to explode or there was never enough time to
 cover it in the first place.   Also, this is a course, not a Python
